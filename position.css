@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+
+}
+body{
+height: 1000px;
+border: 1px solid red
+;
+
+}
+
+.box{
+    width: 9rem;
+    height: 9rem;
+    /* margin-top:20px; */
+}
+.box1 {
+    background-color: aqua;
+    position: relative;
+    top: 4rem;
+    left: 2rem;
+    bottom: 2rem;
+} 
+      *
+.box2 {
+    background-color: green;
+    position: relative;
+    /* top: 4rem; */
+    /* left: 2rem;
+    bottom: 2rem;
+    margin-top: 37px;
+} */
+     
